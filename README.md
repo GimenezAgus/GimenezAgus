@@ -1,19 +1,20 @@
 <h1 align="center">Hi, I'm Agustín Giménez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35"></h1>
 
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h3 align="center">Hi, I'm Agustín Giménez A passionate aspiring Software Developer from Argentina <img  src="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000" width = 25px></h3>
 
 ### 🤵 &nbsp;About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;While seeking my first opportunity in the industry, I have foundational knowledge in key technologies and tools that I am eager to develop and apply.\
+🎓 &nbsp;I'm currently pursuing a Technical Degree in Software Programming at Universidad Nacional de San Martín.\
+✍️ &nbsp;In my free time, I enjoy exploring new technologies and enhancing my programming skills through personal projects.\
+💬 &nbsp;Feel free to reach out to me for collaboration, learning opportunities, or just to have a chat about tech.\
+✉️ &nbsp;ou can contact me at gimenez.agustin2002@gmail.com. I'll do my best to reply as soon as possible.\
+📄 &nbsp;Check out my GitHub for more about my work: https://github.com/GimenezAgus. \
+
+Let's build something amazing together! 🚀
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm currently pursuing a Technical Degree in Software Programming at Universidad Nacional de San Martín.\
 ✍️ &nbsp;In my free time, I enjoy exploring new technologies and enhancing my programming skills through personal projects.\
 💬 &nbsp;Feel free to reach out to me for collaboration, learning opportunities, or just to have a chat about tech.\
-✉️ &nbsp;ou can contact me at gimenez.agustin2002@gmail.com. I'll do my best to reply as soon as possible.\
+✉️ &nbsp;You can contact me at gimenez.agustin2002@gmail.com. I'll do my best to reply as soon as possible.\
 📄 &nbsp;Check out my GitHub for more about my work: https://github.com/GimenezAgus. \
 
 Let's build something amazing together! 🚀
